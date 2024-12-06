@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Rian Haryadi</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Freelance+Developer+%7C+Web+Enthusiast;I'm+a+Newbie+in+Programming;Learning+JavaScript+and+Web+Design;Welcome+to+My+GitHub+Profile!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Welcome+to+My+GitHub+Profile;Newbie+Exploring+Programming;Learning+HTML,+CSS,+JavaScript+%26+Web+Design;Enjoy+Your+Visit!">
 </p>
 
 ---
