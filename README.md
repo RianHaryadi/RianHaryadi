@@ -46,14 +46,6 @@
 
 ---
 
-## 👤 Profile Showcase
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/74245117?v=4" 
-       alt="Profile Picture" 
-       style="border-radius: 50%; width: 180px; height: 180px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-</p>
-
----
 
 <p align="center">
   🚀 Thanks for visiting my profile! I'm a newbie learning to code. Feel free to explore my repositories and connect with me. Happy coding! 😄
