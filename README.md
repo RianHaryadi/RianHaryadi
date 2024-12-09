@@ -48,8 +48,17 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RianHaryadi&theme=radical&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RianHaryadi&theme=radical&row=1&column=6&margin-w=15" 
+       alt="GitHub Trophies" 
+       style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
 </p>
+
+<style>
+  img:hover {
+    transform: scale(1.05); /* Slightly enlarge the image on hover */
+  }
+</style>
+
 
 ---
 
