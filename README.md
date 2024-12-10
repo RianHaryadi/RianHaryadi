@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 - 🚀 Master **React.js** and build dynamic web applications.  
 - 🔗 Learn **API Integration** and create meaningful projects.  
 - 📂 Collaborate on open-source projects to grow and connect with the community.
@@ -59,13 +59,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianHaryadi&layout=compact&theme=radical" alt="Top Languages">
 </p>
-
----
-
-## 🏆 Achievements & Highlights
-- 🏅 **Hackathon Participant**: Joined [Hackathon Name], where I learned teamwork and problem-solving.  
-- 💡 **Personal Project**: Built a [describe project, e.g., "portfolio website" or "blog platform"] that showcases my skills.  
-- 📘 Constant learner exploring **new frameworks** and **programming tools**.
 
 ---
 
