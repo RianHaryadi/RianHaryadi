@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🚀 Currently building **Wonderful Indonesia – NTT**, a tourism website using React + Laravel + Filament  
+- 🚀 Currently building **Wonderful Indonesia – NTT**, a tourism website using Laravel + Filament  
 - 🌱 Always learning about **AI integration**, **system architecture**, and **modern web design**  
 - 💬 Ask me about **React, Laravel, Filament, Tailwind CSS, or API development**  
 - ⚡ Fun fact: I love writing clean, scalable, and well-documented code  
@@ -20,9 +20,6 @@
 <p align="left">
   <a href="https://instagram.com/rianhrydi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rianhrydi" height="30" width="40" />
-  </a>
-  <a href="mailto:rianharyadi@example.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Email-rianharyadi%40example.com-red?logo=gmail&logoColor=white" height="28" />
   </a>
   <a href="https://github.com/rianharyadi" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-rianharyadi-black?logo=github&logoColor=white" height="28" />
@@ -46,8 +43,8 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45" height="45"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/>
+</a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
   </a>
