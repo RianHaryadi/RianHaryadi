@@ -1,66 +1,100 @@
-# <h1 align="center">Hi 👋, I'm Rian Haryadi</h1>
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Rian Haryadi</h1>
+<h3 align="center">💻 A Passionate Full-Stack Developer from Indonesia 🇮🇩</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Welcome+to+My+GitHub+Profile;Newbie+Exploring+Programming;Frontend+Development+Enthusiast;Enjoy+Your+Visit!">
+  <img src="https://komarev.com/ghpvc/?username=rianharyadi&label=Profile%20views&color=0e75b6&style=flat" alt="rianharyadi" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 I'm a **college student** at **Universitas Gunadarma**  
-- 🌱 Currently diving into **JavaScript** and **Frontend Development**  
-- 💬 Ask me about **HTML**, **CSS**, **Java**, and **Web Basics**  
-- 🌟 Fun Fact: I enjoy solving coding puzzles and exploring creative ways to build interactive websites!
+### 👨‍💻 About Me  
+- 🚀 Currently building **Wonderful Indonesia – NTT**, a tourism website using React + Laravel + Filament  
+- 🌱 Always learning about **AI integration**, **system architecture**, and **modern web design**  
+- 💬 Ask me about **React, Laravel, Filament, Tailwind CSS, or API development**  
+- ⚡ Fun fact: I love writing clean, scalable, and well-documented code  
 
 ---
 
-## 🎯 Goals for 2025
-- 🚀 Master **React.js** and build dynamic web applications.  
-- 🔗 Learn **API Integration** and create meaningful projects.  
-- 📂 Collaborate on open-source projects to grow and connect with the community.
-
----
-
-## 🌐 Connect With Me
+### 🌐 Connect With Me  
 <p align="left">
-  <a href="https://instagram.com/rianhrydi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://instagram.com/rianhrydi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rianhrydi" height="30" width="40" />
   </a>
-  <a href="mailto:rianharyadi@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:rianharyadi@example.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Email-rianharyadi%40example.com-red?logo=gmail&logoColor=white" height="28" />
   </a>
-  <a href="https://www.linkedin.com/in/rianharyadi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://github.com/rianharyadi" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-rianharyadi-black?logo=github&logoColor=white" height="28" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+### 🧠 Languages and Tools  
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45" height="45"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
+  </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GoLang" width="45" height="45"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RianHaryadi&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rianharyadi&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rianharyadi&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rianharyadi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 📚 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianHaryadi&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-profile-trophy.vercel.app/?username=rianharyadi&theme=tokyonight&margin-w=10&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<p align="center">
-  🚀 Thanks for visiting my profile! I'm passionate about coding and always open to learning and collaboration. Feel free to explore my repositories, connect with me, or just say hi. Happy coding! 😊
-</p>
+<h3 align="center">✨ "Code with purpose, design with passion." ✨</h3>
